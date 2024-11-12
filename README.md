@@ -25,3 +25,9 @@
 ### Language Server starter
 
 [https://github.com/NipunaMarcusZuhlke/ZuhlkeCamp-WebEditor/tree/language-server](https://github.com/NipunaMarcusZuhlke/ZuhlkeCamp-WebEditor/tree/language-server)
+
+## Articles
+
+[Develop a Web Editor with Angular and Monaco](https://software-engineering-corner.zuehlke.com/develop-a-web-editor-for-your-dsl-using-angular-and-monaco-editor-library-with-language-server-support)
+[Develop a Web Editor with React and Monaco](https://software-engineering-corner.zuehlke.com/develop-a-web-editor-for-your-dsl-using-react-and-monaco-editor-library-with-language-server-support)
+[Develop your own Language Server](https://software-engineering-corner.zuehlke.com/develop-your-own-language-server)
