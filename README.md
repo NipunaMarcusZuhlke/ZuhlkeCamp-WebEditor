@@ -23,3 +23,6 @@ Websocket service will be up on
 ```
 ws://localhost:8080/ls
 ```
+## Resources
+
+[https://software-engineering-corner.zuehlke.com/develop-your-own-language-server](https://software-engineering-corner.zuehlke.com/develop-your-own-language-server)
