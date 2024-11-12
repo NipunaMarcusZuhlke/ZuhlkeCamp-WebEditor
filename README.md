@@ -1,15 +1,25 @@
-# How to develop your own WebEditor with Monaco and Language Server
+# Language Server
+sample language server for HelloFalks language
 
-## Prerequisites
+## How to Run
 
-### Language Server
-  - Java (v17)
-  - IDE of your choice that supports Java
+Make sure you have Java installed in your workspace.
 
-### Web application
-  - node (v20.10.0)
-  - npm (v10.2.3)
-  - Basic knowledge of TypeScript
-  - Basic knowledge of React or Angular
+ - Java (v17)
+ - IDE of your choice that supports Java
 
-## Starter Applications
+**Build**
+```
+mvn clean install
+```
+
+**Run**
+```
+java -jar target/hellols-0.0.1-SNAPSHOT.jar
+```
+
+Websocket service will be up on
+
+```
+ws://localhost:8080/ls
+```
